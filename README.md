@@ -11,3 +11,4 @@ Table S2
 Table S3
 
 Table S4
+[Methods supplemental.docx](https://github.com/wwegdam/Thesis/files/11971207/Methods.supplemental.docx)
